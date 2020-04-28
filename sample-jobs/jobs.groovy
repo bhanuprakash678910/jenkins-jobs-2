@@ -1,4 +1,4 @@
-node ('slavenode1') {
+node (){
   stage('shell commands'){
      sh ''' 
 	 uptime
